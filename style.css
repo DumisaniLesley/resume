@@ -586,6 +586,9 @@ header {
 
 
 /* Projects */
+#projects {
+    z-index: 1;
+}
 
 #projects h2 {
     margin-top: 100px;
