@@ -2,7 +2,7 @@ const btn = document.getElementById('menu-btn')
 const nav = document.getElementById('menu')
 
 const subtitle = document.getElementById('subtitle')
-const phrases = ['A Front-End Developer...', 'A UI Designer...', 'A Graphic Designer...', 'Aspiring Back-End Developer...']
+const phrases = ['A Front-End Developer...', 'A UI Designer...', 'A Graphic Designer...', 'Aspiring Back-End Developer']
 let i = 0
 let j = 0
 let currentPhrase = []
